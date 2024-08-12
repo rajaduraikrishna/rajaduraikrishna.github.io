@@ -1,0 +1,20 @@
+[
+    {
+        "school":"Birla Institute of Technology, Pilani",
+        "degree":"MS",
+        "major":"Software Engineering",
+        "range":"2009-2011"
+    },
+    {
+        "school":"Bharathidasan University",
+        "degree":"MCA",
+        "major":"Computer Applications",
+        "range":"2000 - 2003"
+    },
+    {
+        "school":"Bishop Heber College",
+        "degree":"B.Sc",
+        "major":"Physics",
+        "range":"1997 - 2000"
+    }
+]
