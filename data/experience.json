@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Chief Team Lead",
+        "company":"Sabre Holdings",
+        "summary":"Architected and developed highly scalable systems for travel extras and hotels. Built a system which can asynchronously accepts content from suppliers. Owned the datacenter migrations end to end ",
+        "range":"April 2004 - March 2007"
+    },
+    {
+        "role":"Senior Software Developer",
+        "company":"Trigent Software",
+        "summary":"Effective coding and innovation on TDD",
+        "range":"April 2004 - March 2007"
+    }
+]
