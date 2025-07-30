@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Passionate developer with extensive experience in designing and implementing highly scalable enterprise systems and eCommerce applications. Proven track record in leading architectural initiatives and driving innovation in complex environments. Expertise in Microservices architecture, problem-solving, and design patterns. Proficient in Core Java, Spring, web services, and Oracle, with a solid foundation in data structures and algorithms. A dedicated engineering professional committed to delivering robust, efficient solutions that align with business goals.
